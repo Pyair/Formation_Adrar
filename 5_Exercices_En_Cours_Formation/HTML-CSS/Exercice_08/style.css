@@ -1,0 +1,17 @@
+table {
+    border: thick double blueviolet;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: solid 2px black;
+    text-align: center;
+}
+
+th {
+    background-color: skyblue;
+}
+caption {
+    color: blueviolet;
+    font-weight: bold ;
+}
