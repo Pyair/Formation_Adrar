@@ -1,24 +1,24 @@
 h1 {
     color: red;
     text-align: center;
-    font-size: 30px;
+    font-size: 5em;
     font-weight: bold;
 }
 h3 {
     color: blue;
-    font-size: 20px;
+    font-size: 2em;
 }
 article:nth-child(2) p, article:nth-child(3) p {
-background-color: grey;
+background-color: lightgray;
 }
 strong {
     font-weight: normal;
     color: greenyellow;
 }
 em {
-    font-weight: normal;
+    font-style: normal;
     text-decoration: underline;
-    font-size: larger;
+    font-size: 1.5em;
     color: orange;
 }
 article:nth-child(4) p {
