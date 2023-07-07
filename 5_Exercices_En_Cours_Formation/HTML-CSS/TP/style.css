@@ -1,0 +1,182 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgba(242, 242, 242, 255);
+    width: 100%;
+}
+
+h1 {
+
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 50px;
+    margin: 0px;
+
+}
+
+h2 {
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 20px;
+    margin: 0px;
+}
+
+body {
+    height: 100%;
+    width: 45%;
+    display: grid;
+
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+
+}
+
+#box1 {
+    background-color: rgba(31, 73, 125, 255);
+    grid-column: 1 /span 8;
+    grid-row: 1;
+    padding: 40px 20px;
+
+}
+
+p {
+    margin: 0px;
+}
+
+.description {
+    color: rgba(244, 246, 249, 255);
+    height: 100%;
+}
+
+#box2 {
+    background-color: white;
+    grid-column: 9 /span 12;
+    grid-row: 1;
+    padding: 20px;
+
+}
+
+.date {
+    margin: 0px 10px 50px 0px;
+    border-radius: 75px;
+    background-color: #1f497d;
+    border: 0.5px solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+    text-align: center;
+    min-width: 50px;
+    color: white;
+}
+
+#box3 {
+    display: flex;
+    grid-column: 1 /span 8;
+    grid-row: 2 /span 3;
+    margin: 20px;
+    flex-direction: column;
+
+}
+
+.exp-pro {
+    text-align: left;
+    border-bottom: solid 2px lightgrey;
+}
+
+#box4 {
+    background-color: rgba(31, 73, 125, 255);
+    grid-column: 9 /span 12;
+    grid-row: 2 /span 2;
+    padding: 30px;
+}
+
+.contact {
+    text-align: left;
+    color: white;
+}
+
+.des-contact {
+    color: whitesmoke;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+#box5 {
+    background-color: rgba(242, 242, 242, 255);
+    grid-column: 9 /span 12;
+    grid-row: 4;
+    color: rgb(31, 73, 125);
+    padding: 30px;
+}
+
+.competences {
+    text-align: left;
+}
+
+.des-compet {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 73, 125);
+
+
+}
+
+.titre,
+.entreprise {
+    color: rgb(31, 73, 125);
+}
+
+#box6 {
+    grid-column: 1 /span 8;
+    grid-row: 5;
+    margin: 20px;
+
+}
+
+.Formation {
+    text-align: left;
+    border-bottom: solid 2px lightgrey;
+}
+
+#box7 {
+    background-color: rgb(31, 73, 125);
+    grid-column: 9 /span 12;
+    padding: 30px;
+
+}
+
+.hobbies {
+    color: white;
+    text-align: left;
+}
+
+.des-hobbies {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.date2 {
+    margin: 0%;
+    border-radius: 75px;
+    background-color: #1f497d;
+    border: 0.5px solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+    text-align: center;
+    min-width: 50px;
+    color: white;
+}
