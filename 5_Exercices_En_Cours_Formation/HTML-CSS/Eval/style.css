@@ -1,0 +1,182 @@
+* {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.bandeau {
+    position: fixed;
+    width: 100%;
+    grid-column: 1 /span 12;
+    display: flex;
+    justify-content: center;
+    color: #7c925e;
+    background-color: #ebe2d7;
+    padding: 1%;
+    align-items: center;
+}
+
+header {
+    border-bottom: solid 4px #6d6d6d;
+    grid-column: 1 /span 12;
+    background-color: #fbf9f7;
+    padding-top: 5%;
+
+}
+
+h1 {
+    margin: 0% 20%;
+    color: #7c925e;
+}
+
+.PPlaid {
+    min-width: 50%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 20%;
+
+}
+
+.leftnav {
+    display: flex;
+}
+
+.leftnav p {
+    margin: 10% 10%;
+
+}
+
+.rightnav {
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rightnav img {
+    margin: 10% 10%;
+}
+
+main {
+    grid-column: 1 /span 6;
+    margin: 0% 0% 0% 30%;
+
+}
+
+main p {
+    color: #6d6d6d;
+    background-color: #ebe2d7;
+    max-width: 70%;
+    transform: translateY(-50px);
+    padding: 4%;
+}
+
+main img {
+    height: 350px;
+    padding-left: 7%;
+}
+
+article {
+    grid-column: 7 /span 12;
+    display: grid;
+    margin-right: 40%;
+    margin-left: 0%;
+}
+
+article img {
+    width: 50%;
+    margin: 3%;
+}
+
+article div {
+    padding: 20px;
+    color: #6d6d6d;
+}
+
+article div img {
+    float: left;
+    margin-bottom: 10px;
+}
+
+main h2,
+div h2 {
+    color: #7c925e;
+}
+
+article section {
+    display: flex;
+    flex-direction: row;
+
+}
+
+h2 {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    padding-left: 7%;
+}
+
+/* FOOTER */
+footer {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    background-color: #EAE2D7;
+    color: #7E9162;
+    margin-top: 0%;
+    grid-column: 1/13;
+    width: 100%;
+    padding-left: 7%;
+    
+}
+
+footer h2 {
+    grid-column: 2/5;
+}
+
+form {
+    margin: 0 20%;
+    padding: 2% 0;
+}
+
+.formLeft {
+    display: flex;
+    flex-direction: column;
+    grid-column: 2/5;
+    justify-content: space-evenly;
+    padding-left: 7%;
+
+}
+
+.formRight {
+    grid-column: 6/9;
+}
+
+
+input,
+textarea,
+.button {
+    border: none;
+}
+
+input {
+    padding: 2%;
+    margin-bottom: 0%;
+}
+
+textarea,
+.button {
+    width: 100%;
+}
+
+.button {
+    color: white;
+    background-color: #7E9162;
+    margin-bottom: 3%;
+}

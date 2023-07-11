@@ -60,7 +60,9 @@ p {
     padding: 20px;
 
 }
-
+#box3 .date p {
+    padding: 10px;
+}
 .date {
     margin: 0px 10px 50px 0px;
     border-radius: 75px;
@@ -143,6 +145,9 @@ img {
     margin: 20px;
 
 }
+#box6 .date2 p{
+    padding: 10px;
+}
 
 .Formation {
     text-align: left;
@@ -168,7 +173,7 @@ img {
 }
 
 .date2 {
-    margin: 0%;
+    margin: 0px 10px 0px 0px;
     border-radius: 75px;
     background-color: #1f497d;
     border: 0.5px solid;
