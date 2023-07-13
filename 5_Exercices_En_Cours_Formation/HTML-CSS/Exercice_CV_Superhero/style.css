@@ -1,0 +1,49 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+h1 {
+    color: white;
+}
+/* BODY */
+body {
+    background-image: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bandeau {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+
+}
+
+.bandeau video {
+    width: 30%;
+
+}
+
+img {
+    width: 20%;
+    /* margin: 3%; */
+
+}
+
+.image1 {
+    background-image: url(./img/kakashi-masque.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* height: 400px; */
+    /* width: 400px; */
+    margin: 3%;
+}
+
+img:hover {
+    opacity: 0%;
+    /* transition-property: opacity; */
+    transition-duration: 2s;
+}
