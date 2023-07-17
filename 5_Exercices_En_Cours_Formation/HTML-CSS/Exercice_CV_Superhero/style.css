@@ -3,9 +3,10 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: white;
+    color: red;
 }
 /* BODY */
 body {
@@ -28,8 +29,7 @@ body {
 }
 
 img {
-    width: 20%;
-    /* margin: 3%; */
+    width: 15%;
 
 }
 
