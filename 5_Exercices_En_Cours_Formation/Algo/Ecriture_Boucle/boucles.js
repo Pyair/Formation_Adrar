@@ -170,7 +170,7 @@ for (let i=0; i<10; i++){
     else if(i%3==1){
         console.log(i+100);   
     }
-    else if(i%3==2){
+    else {
         console.log(i+200)
     }
 }
@@ -186,16 +186,27 @@ for (let i=0; i<10; i++){
 // 6 5
 // 6 6
 console.log("Exercice 10");
-// TODO
+for (let i=1; i<7; i++){
+    for(let j=0; j<7; j++){
+        console.log(i,j);
+    }
+}
 
 // Exercice 11 : adapter l'exercice précédent pour enlever les doublons (on ne veut pas afficher 1 2 et 2 1, mais seulement l'un des deux).
 console.log("Exercice 11");
-// TODO
+for (let i=1; i<7; i++){
+    for(let j=i; j<7; j++){
+        console.log(i,j);
+    }
+}
 
 // Exercice 12 : en prenant des dés à 20 faces, combien de résultats différents (sans doublon) peut-on afficher ? (Autrement dit : adapter le code précédent pour compter les résultats au lieu de les afficher)
 console.log("Exercice 12");
-// TODO
-
+for (let i=1; i<21; i++){
+    for(let j=i; j<7; j++){
+        console.log(i,j);
+    }
+}
 // Exercice 13 : afficher la table de multiplication de 1 (de 1 à 9):
 // 1x1 = 1
 // 1x2 = 2
