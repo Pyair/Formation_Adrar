@@ -56,3 +56,4 @@ displayInfo(firstPlayer);
 // - vérifier que le personnage a au moins 10 points de mana ; si ce n'est pas le cas, la fonction est terminée
 // - faire perdre 10 points de mana à A
 // - faire perdre 25 points de vie à B
+//blablabla
