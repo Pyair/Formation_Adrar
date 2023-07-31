@@ -65,8 +65,7 @@ for (let i = 0; i < smarties.length; i++){
     sum += smartiesBlue;
 }
 
-
-console.log(sum);
+console.log(sum);   
 // Pour chaque couleur, compter le nombre de Smarties® de cette couleur.
 // Quelle est la couleur la plus présente, en tout ?
 // Quel est le nombre maximum de Smarties® d'une seule couleur, dans une boîte ?
