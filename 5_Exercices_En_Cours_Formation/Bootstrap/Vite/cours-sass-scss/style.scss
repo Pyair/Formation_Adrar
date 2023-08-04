@@ -1,0 +1,44 @@
+@import "autre.scss";
+$mainBgColor:royalblue;
+$pColor: white;
+$hoverColor: chartreuse;
+
+#nestingTest{
+    background-color: $mainBgColor;
+
+    p{
+        color: $pColor;
+        padding: $padding;
+        font-family: $police;
+        font-size: $size;
+        
+    }
+    :hover{
+        background-color: $hoverColor;
+        
+    }
+}
+
+h1{
+    background-color: $mainBgColor;
+    color:$pColor;
+    margin: $margin;
+    font-family: $police;
+}
+
+.alerte-box{
+    width: 50%;
+    margin: auto;
+}
+.alerte-rouge {
+    @extend .alerte-box;
+    background-color: red;
+    font-size: $size2;
+    // width: 20%
+}
+.alerte-vert{
+    @extend .alerte-box;
+    background-color: green;
+    font-size: $size2;
+    // width: 20%;
+}

@@ -1,5 +1,5 @@
 {
-  "name": "cours-sass-scss",
+  "name": "porte-folio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,5 @@
   },
   "devDependencies": {
     "vite": "^4.4.5"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.1"
   }
 }
