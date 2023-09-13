@@ -8,6 +8,12 @@ let smarties = [[3, 6, 7, 3, 6, 2, 2, 1], [2, 1, 12, 4, 2, 3, 4, 2], [3, 4, 8, 7
 
 
 // Comment pourrais-je stocker toutes les informations du fichier smarties.data ?
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 65483eb3a84f61cf648df721d0d25e3ae9257490
 // Maintenant que j'ai ces données :
 // Combien y a-t-il de Smarties® dans chaque boîte ?
 let sum =0;
@@ -17,12 +23,23 @@ for (let i=0; i<smarties.length; i++){
     sum = 0;
     for (let j =0; j<smartiesBox.length; j ++){
         sum += smartiesBox[j];
+<<<<<<< HEAD
 
     }
     console.log(sum);
 }
 console.log("\n\n\n\n\n")
 
+=======
+        
+    }
+    console.log(sum);
+}
+
+console.log("\n\n\n\n\n")
+
+
+>>>>>>> 65483eb3a84f61cf648df721d0d25e3ae9257490
 // Quel est le nombre minimum de Smarties® dans une boîte ?
 let minSoFar= 500;
 for (let i=0; i<smarties.length; i++){
@@ -35,6 +52,12 @@ for (let i=0; i<smarties.length; i++){
         minSoFar = sum;
     }
 }
+<<<<<<< HEAD
+=======
+console.log(minSoFar);
+
+
+>>>>>>> 65483eb3a84f61cf648df721d0d25e3ae9257490
 // Et le nombre maximum ?
 let maxSoFar=0;
 for (let i=0; i<smarties.length; i++){
@@ -47,7 +70,10 @@ for (let i=0; i<smarties.length; i++){
         maxSoFar = sum;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 65483eb3a84f61cf648df721d0d25e3ae9257490
 console.log(maxSoFar);
 // Combien y a-t-il de Smarties® bleus en tout ?
 sum = 0;
@@ -57,7 +83,11 @@ for (let i = 0; i < smarties.length; i++){
     sum += smartiesBlue;
 }
 
+<<<<<<< HEAD
 console.log(sum);
+=======
+console.log(sum);   
+>>>>>>> 65483eb3a84f61cf648df721d0d25e3ae9257490
 // Pour chaque couleur, compter le nombre de Smarties® de cette couleur.
 // Quelle est la couleur la plus présente, en tout ?
 // Quel est le nombre maximum de Smarties® d'une seule couleur, dans une boîte ?

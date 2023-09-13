@@ -1,0 +1,83 @@
+{
+	"folders": [
+		{
+			"name": "Exercice_02",
+			"path": "..\\..\\HTML-CSS\\Exercice_02"
+		},
+		{
+			"name": "Exercice_03",
+			"path": "..\\..\\HTML-CSS\\Exercice_03"
+		},
+		{
+			"name": "Exercice_05",
+			"path": "..\\..\\HTML-CSS\\Exercice_05"
+		},
+		{
+			"name": "Exercice_06",
+			"path": "..\\..\\HTML-CSS\\Exercice_06"
+		},
+		{
+			"name": "Exercice_07",
+			"path": "..\\..\\HTML-CSS\\Exercice_07"
+		},
+		{
+			"name": "Exercice_08",
+			"path": "..\\..\\HTML-CSS\\Exercice_08"
+		},
+		{
+			"name": "Exercice_10",
+			"path": "..\\..\\HTML-CSS\\Exercice_10"
+		},
+		{
+			"name": "Exercice_11",
+			"path": "..\\..\\HTML-CSS\\Exercice_11"
+		},
+		{
+			"name": "Exercice_Bonus",
+			"path": "..\\..\\HTML-CSS\\Exercice_Bonus"
+		},
+		{
+			"name": "Exercice_Bonus_02",
+			"path": "..\\..\\HTML-CSS\\Exercice_Bonus_02"
+		},
+		{
+			"path": "..\\..\\HTML-CSS\\Defi_Flexbox"
+		},
+		{
+			"path": "..\\..\\..\\..\\Sauvegarde formation adrar\\5_Exercices_En_Cours_Formation\\HTML-CSS\\TP"
+		},
+		{
+			"path": "..\\..\\HTML-CSS\\Eval"
+		},
+		{
+			"path": "..\\..\\HTML-CSS\\Correction_Eval"
+		},
+		{
+			"path": "..\\..\\HTML-CSS\\Exercice_Revision"
+		},
+		{
+			"path": "..\\..\\HTML-CSS\\Exercice_CV_Superhero"
+		},
+		{
+			"path": "..\\..\\..\\4_Mes_Supports_Cours\\Algo\\Turtle"
+		},
+		{
+			"path": "..\\..\\..\\4_Mes_Supports_Cours\\Algo\\LectureBoucle"
+		},
+		{
+			"path": "..\\..\\Algo\\Ecriture_Boucle"
+		},
+		{
+			"path": "..\\..\\Algo\\fonctions"
+		},
+		{
+			"path": "..\\..\\Algo\\Tableaux"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
