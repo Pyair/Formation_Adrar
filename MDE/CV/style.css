@@ -1,0 +1,149 @@
+body {
+    width: 738px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 50px;
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 20px;
+    margin: 0px;
+}
+
+.description {
+    background-color: rgb(31 73 125);
+    color: white;
+    padding: 30px;
+    margin-inline: 15px;
+    padding-block: 55px;
+    margin-left: 0%;
+    margin-right: -3px;
+}
+
+.text-photo {
+    display: flex;
+    margin: 0%;
+}
+
+.image {
+    padding: 20px;
+}
+
+.titre-bloc {
+    color: rgb(31, 73, 125);
+    font-size: 30px;
+    margin: 15px;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+}
+
+.text-experience-formation {
+    display: inline-flex;
+    
+}
+
+.date {
+    margin: 0px 10px 50px 0px;
+    border-radius: 75px;
+    background-color: #1f497d;
+    border: 0.5px solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+    text-align: center;
+    min-width: 50px
+}
+
+.englobante {
+    display: flex;
+}
+
+.block1 {
+    display: flex;
+
+}
+
+.formation {
+    display: inline-grid;
+}
+
+.entreprise {
+    color: #1f497d;
+}
+
+.contact-titre {
+    background-color: #1f497d;
+    text-transform: uppercase;
+    padding: 17px;
+    border-bottom: solid;
+}
+
+.block-competence {
+    
+    background-color: rgb(242, 242, 242);
+}
+
+.hobbies {
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    background-color: #1f497d;
+    height: 230px;
+}
+
+#aside {
+    display: block;
+    width: 32%;
+    padding: 0px;
+}
+
+.contact {
+    color: white;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    height: 230px;
+    background-color: #1f497d;
+
+}
+
+.herve {
+    background-color: rgb(242, 242, 242);
+}
+
+.titre-hobbies {
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.experience-formation {
+    width: 68%;
+}
+
+.liste-contact {
+    padding: 25px;
+    background-color: #1f497d;
+}
+
+.competence {
+    border-bottom: solid;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.liste-competence {
+    margin: 0px;
+    list-style-type: none;
+    height: 380px;
+}
