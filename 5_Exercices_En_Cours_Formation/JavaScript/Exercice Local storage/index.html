@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire d'Inscription et Connexion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="login-form">
+        <h2>Formulaire de Connexion</h2>
+        <input type="text" id="login" placeholder="Login" required><br>
+        <input type="password" id="password" placeholder="Mot de passe" required><br>
+        <button onclick="login()">Se Connecter</button>
+    </div>
+
+    <div id="user-info" style="display:none;">
+        <h2>Informations du Compte</h2>
+        <p><strong>Login:</strong> <span id="user-login"></span></p>
+        <p><strong>Nom:</strong> <span id="user-nom"></span></p>
+        <p><strong>Prénom:</strong> <span id="user-prenom"></span></p>
+        <p><strong>Age:</strong> <span id="user-age"></span></p>
+        <p><strong>Email:</strong> <span id="user-email"></span></p>
+        <p><strong>Profession:</strong> <span id="user-profession"></span></p>
+        <button onclick="logout()">Déconnexion</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

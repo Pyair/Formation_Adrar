@@ -1,0 +1,13 @@
+body {
+    height: 2000px; /* Hauteur de la page pour permettre le défilement */
+}
+
+.progress-bar {
+    width: 0;
+    height: 30px;
+    background-color: #1f51dd;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: width 0.3s ease; /* Animation de la barre */
+}
