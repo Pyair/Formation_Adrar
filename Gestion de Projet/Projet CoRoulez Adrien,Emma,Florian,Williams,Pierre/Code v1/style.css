@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Lilita One;
+}
+
+.logo {
+    width: 150px;
+    
+}
+
+.card {
+    margin-left: 13%;
+    top: 30px;
+}
+
+img.user{
+    width: 40px;
+    height: 20px;
+    margin-left: 50px;
+}
+.navbar-brand{
+        
+    justify-content: center;
+    align-items: center;
+}
+.photo-pres,
+.photo-pres * {
+  box-sizing: border-box;
+}
+.photo-pres {
+  background: linear-gradient(
+    180deg,
+    rgba(35, 185, 233, 0.58) 0%,
+    rgba(86, 204, 242, 0.28) 100%
+  );
+  width: 393px;
+  height: 474px;
+  position: relative;
+}
+
+
+.annonce,
+.annonce * {
+  box-sizing: border-box;
+}
+.annonce {
+  background: rgba(0, 0, 0, 0.02);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.5px;
+  width: 357px;
+  height: 154px;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.annonce-content {
+  position: absolute;
+  inset: 0;
+}
+.photo {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.3px;
+  width: 106px;
+  height: 104px;
+  position: absolute;
+  left: 13px;
+  top: 31px;
+}
+.titre-annonce {
+  color: #0d5386;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 13px;
+  top: 12px;
+  width: 252px;
+  height: 19px;
+}
+.texte-annonce {
+  color: #000000;
+  text-align: left;
+  font: 300 11px "LibreFranklin-Light", sans-serif;
+  position: absolute;
+  left: 132px;
+  top: 39px;
+  width: 199px;
+  height: 67px;
+}
+.bouton-r-server {
+  background: #0d5386;
+  border-radius: 20px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  left: 169px;
+  top: 114px;
+  overflow: hidden;
+}
+.r-server {
+  color: #ffffff;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: 7px;
+  width: 79px;
+  height: 16px;
+}
+
+.annonce-2,
+.annonce-2 * {
+  box-sizing: border-box;
+}
+.annonce-2 {
+  background: rgba(0, 0, 0, 0.02);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.5px;
+  width: 357px;
+  height: 154px;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.annonce-content {
+  position: absolute;
+  inset: 0;
+}
+.photo {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.3px;
+  width: 106px;
+  height: 104px;
+  position: absolute;
+  left: 13px;
+  top: 31px;
+}
+.titre-annonce {
+  color: #0d5386;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 13px;
+  top: 12px;
+  width: 252px;
+  height: 19px;
+}
+.texte-annonce {
+  color: #000000;
+  text-align: left;
+  font: 300 11px "LibreFranklin-Light", sans-serif;
+  position: absolute;
+  left: 132px;
+  top: 39px;
+  width: 199px;
+  height: 67px;
+}
+.bouton-r-server {
+  background: #0d5386;
+  border-radius: 20px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  left: 169px;
+  top: 114px;
+  overflow: hidden;
+}
+.r-server {
+  color: #ffffff;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: 7px;
+  width: 79px;
+  height: 16px;
+}
+
+.annonce-3,
+.annonce-3 * {
+  box-sizing: border-box;
+}
+.annonce-3 {
+  background: rgba(0, 0, 0, 0.02);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.5px;
+  width: 357px;
+  height: 154px;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.annonce-content {
+  position: absolute;
+  inset: 0;
+}
+.photo {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.3px;
+  width: 106px;
+  height: 104px;
+  position: absolute;
+  left: 13px;
+  top: 31px;
+}
+.titre-annonce {
+  color: #0d5386;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 13px;
+  top: 12px;
+  width: 252px;
+  height: 19px;
+}
+.texte-annonce {
+  color: #000000;
+  text-align: left;
+  font: 300 11px "LibreFranklin-Light", sans-serif;
+  position: absolute;
+  left: 132px;
+  top: 39px;
+  width: 199px;
+  height: 67px;
+}
+.bouton-r-server {
+  background: #0d5386;
+  border-radius: 20px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  left: 169px;
+  top: 114px;
+  overflow: hidden;
+}
+.r-server {
+  color: #ffffff;
+  text-align: left;
+  font: 600 11px "LibreFranklin-SemiBold", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: 7px;
+  width: 79px;
+  height: 16px;
+}
