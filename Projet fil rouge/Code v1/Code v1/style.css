@@ -1,0 +1,346 @@
+.accueil,
+.accueil * {
+  box-sizing: border-box;
+}
+.accueil {
+  background: #ffffff;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.recommandation {
+  position: absolute;
+  inset: 0;
+}
+.frame-1 {
+  background: #000000;
+  width: 1920px;
+  height: 138px;
+  position: absolute;
+  left: 0px;
+  top: 942px;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 1730px;
+  top: 14px;
+}
+.mentions-l-gales {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 1690px;
+  top: 54px;
+}
+.all-rights-reserved {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 795px;
+  top: 56px;
+  width: 366px;
+  height: 40px;
+}
+.recommandation-de-la-communaut {
+  width: 1920.12px;
+  height: 654.31px;
+  position: static;
+}
+.rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(228, 111, 35, 1) 0%,
+    rgba(165, 68, 14, 1) 100%
+  );
+  width: 1920px;
+  height: 569px;
+  position: absolute;
+  left: 0.04px;
+  top: 383px;
+}
+.recommandation-de-la-communaut2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 32px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 627.02px;
+  top: 442px;
+  width: 666px;
+  height: 97.99px;
+}
+.excellent-film-d-horreur-r-alisation-somptueuse-interpr-tation-hallucinante-de-l-actrice-principale-sc-nario-la-hauteur-que-demander-de-plus {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 39.04px;
+  top: 563px;
+  width: 613px;
+  height: 172.52px;
+}
+.drive-est-tout-simplement-une-tr-s-grande-r-ussite-tous-niveaux-tout-y-est-de-tr-s-bons-acteurs-et-surtout-ryan-gosling-extraordinaire-d-efficacit-de-puissance-des-images-et-des-lumi-res-poustouflantes-un-sc-nario-qui-monte-en-tension-imperceptiblement-des-dialogues-peu-nombreux-mais-choisis-sur-le-fil-des-sc-nes-incroyables-dot-es-d-un-impact-redoutable-un-tr-s-grand-film-voir-et-revoir {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 700.02px;
+  top: 547px;
+  width: 574px;
+  height: 317px;
+}
+.film-bouleversant-et-grave-qui-traduit-d-une-mani-re-efficace-et-touchante-une-danse-coll-serr-avec-la-folie-et-les-pulsions-le-plus-difficile-a-croire-est-le-r-alisateur-xavier-nolan-n-ait-que-25-ans-autant-de-maturit-et-de-profondeur-cet-ge-d-note-incontestablement-une-forme-de-g-nie-chapeau-bas-et-un-grand-merci {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 1330.04px;
+  top: 557px;
+  width: 530px;
+  height: 480.31px;
+}
+.line-1 {
+  width: 1920px;
+  height: 77.22px;
+  position: absolute;
+  left: 0px;
+  top: 865px;
+  transform: translate(0px, -1.11px);
+  overflow: visible;
+}
+.pearl {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 178px;
+  top: 496px;
+  width: 334px;
+  height: 77px;
+}
+.drive {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 820px;
+  top: 496px;
+  width: 334px;
+  height: 77px;
+}
+.mommy {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 1428px;
+  top: 496px;
+  width: 334px;
+  height: 77px;
+}
+.derni-res-sorties {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  width: 1920px;
+  height: 361.72px;
+  position: absolute;
+  left: 0px;
+  top: 82px;
+  overflow: visible;
+}
+.arrow-1 {
+  width: 52px;
+  height: 0px;
+  position: absolute;
+  left: 67px;
+  top: 228px;
+  overflow: visible;
+}
+.arrow-2 {
+  width: 52px;
+  height: 0px;
+  position: absolute;
+  left: 1812px;
+  top: 228px;
+  overflow: visible;
+}
+.affiche-de-films {
+  width: 1697px;
+  height: 273px;
+  position: static;
+}
+._19803697-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 205px;
+  height: 273px;
+  position: absolute;
+  left: 701px;
+  top: 110px;
+}
+.mv-5-bmgi-3-yw-fm-nd-qt-njc-0-ny-00-zd-bj-l-thl-nj-yt-z-tc-1-z-tk-5-mz-u-2-yt-vj-xk-ey-xk-fqc-gde-qx-vy-nz-a-4-o-dc-3-odu-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 192px;
+  height: 273px;
+  position: absolute;
+  left: 1004px;
+  top: 110px;
+}
+._18364816-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 205px;
+  height: 273px;
+  position: absolute;
+  left: 1293px;
+  top: 110px;
+}
+._1901466-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 218px;
+  height: 273px;
+  position: absolute;
+  left: 103px;
+  top: 110px;
+}
+._19123474-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 205px;
+  height: 273px;
+  position: absolute;
+  left: 398px;
+  top: 110px;
+}
+._18654335-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 205px;
+  height: 273px;
+  position: absolute;
+  left: 1595px;
+  top: 110px;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 1920px;
+  height: 70.66px;
+  position: absolute;
+  left: 0px;
+  top: 0.28px;
+}
+.accueil2 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 55px;
+  top: 29.72px;
+  width: 81px;
+  height: 27.76px;
+}
+.films {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 170px;
+  top: 29.72px;
+  width: 57px;
+  height: 27.76px;
+}
+.s-ries {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 261px;
+  top: 29.72px;
+  width: 70px;
+  height: 27.76px;
+}
+.my-library {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Manrope-Regular", sans-serif;
+  position: absolute;
+  left: 364px;
+  top: 29.72px;
+  width: 108px;
+  height: 27.76px;
+}
+.amis-1 {
+  width: 61px;
+  height: 62.31px;
+  position: absolute;
+  left: 1753px;
+  top: 21.73px;
+}
+.ombre-de-lutilisateur-masculin-1 {
+  width: 46px;
+  height: 46.99px;
+  position: absolute;
+  left: 1840px;
+  top: 24.8px;
+}
+.logo {
+  width: 215px;
+  height: 98.06px;
+  position: static;
+}
+.logo-pl-crop-removebg-preview-1 {
+  width: 215px;
+  height: 98.06px;
+  position: absolute;
+  left: 833px;
+  top: -13px;
+}
+.logo-pl-crop-removebg-preview-12 {
+  width: 215px;
+  height: 98.06px;
+  position: absolute;
+  left: 39px;
+  top: 960px;
+}
+.arrow-3 {
+  width: 67.01px;
+  height: 0px;
+  position: absolute;
+  left: 75px;
+  top: 255px;
+  transform: translate(-68.5px, -10.19px);
+  overflow: visible;
+}
+.arrow-4 {
+  width: 67px;
+  height: 0px;
+  position: absolute;
+  left: 1830px;
+  top: 256px;
+  transform: translate(0px, -11.05px);
+  overflow: visible;
+}
