@@ -346,9 +346,17 @@
     display: none;
   }
 
+
+
   /* Début du CSS pour le projet */
   
-
+main {
+  width: 100vw;
+}
+body {
+  width: 100vw;
+  height: 112vh;
+} 
 
 .user{
     margin: 0.5%;
@@ -375,7 +383,7 @@
 
 div.carrousel.carrousel.slick-initialized.slick-slider {
     padding: 50px;
-    
+    width: 100%;
 }
 
 .carrousel.slick-initialized.slick-slider {
@@ -437,7 +445,7 @@ body .recommandation_films p {
     height: 200px;
     width: 1920px;
     background : rgb(34, 34, 34);
-    grid-column: 1fr;
+    grid-column: 1 /span 4;
 }
 .mentions{
     grid-row: 1;
@@ -480,4 +488,21 @@ body .recommandation_films p {
 }
 a {
     all : unset;
+  }
+
+  .popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  
+  #loginIcon {
+    cursor: pointer;
   }
